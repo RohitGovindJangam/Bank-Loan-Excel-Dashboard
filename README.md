@@ -114,18 +114,9 @@ Consolidated and tabular insights into:
 - **GitHub:** For version control and sharing the project.
 
 ### Skills
-- Advanced Excel skills (SUMIFS, INDEX-MATCH, PivotTables, Data Visualization)
+- Advanced Excel skills (SUMIFS, PivotTables, Data Visualization)
 - Domain knowledge of banking and financial analysis
 - Basic understanding of KPIs and visualization techniques
-
----
-
-## Future Improvements
-
-- Automate dashboard creation using Python (Pandas, Matplotlib/Seaborn, or Dash).
-- Integrate with a database (e.g., MySQL) for real-time data fetching and analysis.
-- Add predictive analytics (e.g., machine learning models for default prediction).
-- Improve user interactivity through BI tools like Tableau or Power BI.
 
 ---
 
@@ -133,11 +124,6 @@ Consolidated and tabular insights into:
 
 Contributions are welcome! If you have ideas for improving the dashboards, visualizations, or codebase, feel free to submit a pull request.
 
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
@@ -145,7 +131,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 For further queries or feedback, reach out via:
 - **GitHub Issues:** Create an issue in this repository.
-- **Email:** [rohitjangam@example.com](mailto:rohitjangam@example.com)
+- **Email:** [jangamrohit88@gmail.com](mailto:jangamrohit88@gmail.com)
 
 ---
 
